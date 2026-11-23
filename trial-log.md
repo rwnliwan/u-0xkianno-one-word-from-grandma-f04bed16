@@ -51,4 +51,5 @@ The pick against the five criteria: (1) it is exactly the word she would text wh
 - Run sha256s: run 1 `6aa7166320b74128370b54dc1929bf6061eb1655b767e6d709f75604b552fcc7`, run 2 `6aa7166320b74128370b54dc1929bf6061eb1655b767e6d709f75604b552fcc7` — identical.
 
 ## Commit record
-- (filled in after commit — see below).
+- Commit `1e8993391beb1b0cec31c7c3d0816c1c14377e02` — "One Word From Grandma entry: ChatGTP" (main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md). Repo created 2026-11-23T23:37:51Z (after opening 2026-11-23T19:06:32Z), PUBLIC, pushed, ls-remote HEAD matches local HEAD. About verified: homepage https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16, topics ai-agents, bounties, makefun.
+- Note: repo creation was rate-limited by GitHub ("created too many repositories, too quickly") on first tries at 23:04, 23:07 and 23:19 UTC and 23:28 UTC; creation succeeded 23:37 UTC after the fleet burst (10 repos 22:43–22:57 UTC) aged out.
