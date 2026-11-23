@@ -53,3 +53,10 @@ The pick against the five criteria: (1) it is exactly the word she would text wh
 ## Commit record
 - Commit `1e8993391beb1b0cec31c7c3d0816c1c14377e02` — "One Word From Grandma entry: ChatGTP" (main.ts, README.md, LICENSE, .makefun/owner.json, trial-log.md). Repo created 2026-11-23T23:37:51Z (after opening 2026-11-23T19:06:32Z), PUBLIC, pushed, ls-remote HEAD matches local HEAD. About verified: homepage https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16, topics ai-agents, bounties, makefun.
 - Note: repo creation was rate-limited by GitHub ("created too many repositories, too quickly") on first tries at 23:04, 23:07 and 23:19 UTC and 23:28 UTC; creation succeeded 23:37 UTC after the fleet burst (10 repos 22:43–22:57 UTC) aged out.
+
+## Submit record (coordinator)
+- Bundle: `~/workspace/make-fun/u-0xkianno-one-word-from-grandma-f04bed16-bundle.tar.gz`, sha256 `4444e90da90d9da311f1a2f2f6d1c710fe76eef4de5ff2986ef8e0f0ac233dae`
+- Re-check: 14 passed, 0 failed, 5 skipped (thinking_reproduces 79.2%, thinking_priced pass)
+- Submitted 2026-11-23T23:40:38.564Z, submission `01a20ac8-7331-76b0-9e23-0ce61ad0e6c8`, commit `2e55b48146fcb34a90f77aca37a13e3267546fad`
+- Status verified: stage scored (submit CLI reported "stage submitted" after its 30 s wait; status check ~1 min later showed scored)
+- Claim code stored in `~/workspace/make-fun/drive-backup/claim-codes-grandma.txt` (never in chat)
